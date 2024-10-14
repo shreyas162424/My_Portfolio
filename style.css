@@ -206,7 +206,29 @@ font-weight: 600;
     margin-top:1rem;
     gap:1rem;
 }
+.profile-img{
+  border-radius:20%;
+    
+}
+/* .image-slider{
 
+
+width: 278px; 
+
+height: 275px; 
+overflow: auto;
+} */
+
+ /* @keyframes imageSlides {
+0%{background-image: url('/assets/4pro.jpeg');}
+50%{background-image: url('/assets/3pro.png');} 
+100%{background-image: url('/assets/2pro.png');}   
+} 
+.image-slider{
+    height:100%;
+    width:100%;
+    animation: imagesSlides 3s linear 1s infinite normal;
+} */
 /* Icons */
 
 .icon{
