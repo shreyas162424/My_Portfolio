@@ -445,6 +445,7 @@ article .icon{
     justify-content:center;
     flex-direction:column;
     height:70vh;
+    flex-wrap: wrap;
 }
 
 .contact-info-upper-container{

@@ -65,6 +65,7 @@
         height:fit-content;
         margin-bottom:2rem;
     }
+    
     .about-containers, .contact-info-upper-container, .btn-container{
         flex-wrap: wrap;
     }
@@ -85,7 +86,7 @@
     }
     .nav-links{
         flex-direction:column;
-        gap:0.5rem;
+        gap:0rem;
         text-align: center;
     }
     .section__pic-container{
