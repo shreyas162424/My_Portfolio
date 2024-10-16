@@ -322,6 +322,45 @@ overflow: auto;
     margin: auto 0;
 }
 
+
+/* languages */
+
+#languags{
+    position:relative;
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+    /* height:70vh; */
+}
+
+.language-container{
+    gap:2rem;
+    margin-bottom:1rem;
+    margin-top:5rem;
+    padding: 1.5em;
+
+}
+
+.language-details-container{
+    justify-content: center;
+    flex-direction: column;
+}
+.language-containers, .language-details-container{
+    display: flex;
+}
+
+.detail-container{
+    padding:1rem;
+    flex:1;
+    background:white;
+    border-radius:2rem;
+    border:rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align:center;
+    margin: 1rem;
+}
+
+
 /* Experience Section */
 
 #experience{
