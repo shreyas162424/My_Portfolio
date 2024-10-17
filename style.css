@@ -490,3 +490,18 @@ footer{
 footer p{
     text-align:center;
 }
+
+.top{
+    height:100wh;
+    width:100wh;
+    /* background-color:rgb(219, 207, 207); */
+}
+.btt:hover{
+    text-decoration: line;
+    text-underline-offset: 5px;
+}
+
+/* lamguage hover */
+.details-container:hover,.detail-container:hover{
+background-color: lightgrey;
+}
