@@ -502,6 +502,7 @@ footer p{
 }
 
 /* lamguage hover */
-.details-container:hover,.detail-container:hover{
+.detail-container:hover{
 background-color: lightgrey;
+/* color:whitesmoke; */
 }
