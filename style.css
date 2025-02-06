@@ -504,5 +504,6 @@ footer p{
 /* lamguage hover */
 .detail-container:hover{
 background-color: lightgrey;
+/* box-shadow:5px 5px 50px   darkmagenta;/ */
 /* color:whitesmoke; */
 }
